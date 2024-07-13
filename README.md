@@ -17,4 +17,4 @@ A PageLinks é um agregador de links para usar como cartão de visitas online.
 
 ---
 
-Feito com ♥ by BeCaetano
+Feito com ♥ por BeCaetano
